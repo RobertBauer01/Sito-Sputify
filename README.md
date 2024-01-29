@@ -1,2 +1,3 @@
 # Sito-Sputify
 ...
+Visualizza solo una risposta alla richesta "Lateralus". Potenziale problema con il token scaduto.
